@@ -4,8 +4,8 @@ MiniStar is an open-source environment built on top of **SMACv2**, designed to s
 
 ## Features
 - **Self-Play Environment**: Built to facilitate self-play strategies for agent training.
-- **SMACv2 Compatibility**: Extends the popular SMACv2 framework.
-- **Integration with OnPolicy**: Utilizes the [OnPolicy](https://github.com/marlbenchmark/onpolicy) project for testing and evaluation.
+- **SMACv2 Compatibility**: Extends the popular [SMACv2](https://github.com/oxwhirl/smacv2).
+- **Integration with OnPolicy**: Utilizes the [OnPolicy](https://github.com/marlbenchmark/on-policy) project for testing and evaluation.
 
 ---
 
@@ -42,7 +42,7 @@ sh train_protoss_10v10_selfplay.sh
 ```
 
 ### 5. Testing with OnPolicy
-MiniStar leverages the [OnPolicy](https://github.com/marlbenchmark/onpolicy) framework for testing. To test the environment using OnPolicy:
+MiniStar leverages the [OnPolicy](https://github.com/marlbenchmark/on-policy) framework for testing. To test the environment using OnPolicy:
 
 ---
 
