@@ -1,6 +1,6 @@
 # MiniStar
 
-MiniStar is an open-source environment built on top of **SMACv2**, designed to support self-play for StarCraft II agents.
+MiniStar is an open-source environment built on top of **SMACv2**, designed to support self-play.
 
 ## Features
 - **Self-Play Environment**: Built to facilitate self-play strategies for agent training.
