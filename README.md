@@ -66,3 +66,4 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 For further questions or support, please open an issue or contact the maintainers.
 
+# MiniStar
