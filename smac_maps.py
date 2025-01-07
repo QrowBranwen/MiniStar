@@ -14,6 +14,16 @@ class SMACMap(lib.Map):
 
 
 map_param_registry = {
+    "10sp_zerg": {
+        "n_agents": 10,
+        "n_enemies": 10,
+        "limit": 200,
+        "a_race": "Z",
+        "b_race": "Z",
+        "unit_type_bits": 3,
+        "map_type": "zerg_gen",
+        "map_name": "32x32_flatsp",
+    },
     "10sp_protoss": {
         "n_agents": 10,
         "n_enemies": 10,
